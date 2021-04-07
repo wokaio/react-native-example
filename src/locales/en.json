@@ -1,0 +1,24 @@
+{
+  "name": "Fado Global",
+  "common": {},
+  "language": {
+    "vn": "Vietnamese",
+    "en": "English"
+  },
+  "submitLabel": "Submit",
+  "cancelLabel": "Cancel",
+  "screens": {
+    "languageSetup": {
+      "selectLanaguageTitle": "Select language"
+    },
+    "home": {
+      "homeTabTitle": "Shopping",
+      "historyTabTitle": "History",
+      "favoriteTabTitle": "Favorite",
+      "menuTabTitle": "Menu"
+    },
+    "addProduct": {
+      "searchInputPlaceholder": "Enter product link"
+    }
+  }
+}

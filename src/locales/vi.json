@@ -1,0 +1,24 @@
+{
+  "name": "Fado Global",
+  "common": {},
+  "language": {
+    "vn": "Tiếng Việt",
+    "en": "Tiếng Anh"
+  },
+  "submitLabel": "Xác nhận",
+  "cancelLabel": "Huỷ bỏ",
+  "screens": {
+    "languageSetup": {
+      "selectLanaguageTitle": "Chọn ngôn ngữ"
+    },
+    "home": {
+      "homeTabTitle": "Mua sắm",
+      "historyTabTitle": "Lịch sử",
+      "favoriteTabTitle": "Yêu thích",
+      "menuTabTitle": "Menu"
+    },
+    "addProduct": {
+      "searchInputPlaceholder": "Nhập link sản phẩm"
+    }
+  }
+}
